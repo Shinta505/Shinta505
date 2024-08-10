@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Shinta Nursobah</h1>
+<h1 align="center">Hello 👋, I'm Shinta Nursobah Chairani</h1>
 
 ###
 
