@@ -61,7 +61,7 @@
 </div>
 
 ###
-## 📊 Github stats
+## Stats
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
