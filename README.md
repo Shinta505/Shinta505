@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Front-end<br>📫 How to reach me: shintanursobahchairani@gmail.com</p>
+<p align="left">🌱 I’m currently learning Front-end<br>📫 How to reach me: shintanursobahchairani@gmail.com<br>👩🏻‍🎓 Studied Informatics at the Universitas Pembangunan Nasional Veteran Yogyakarta, Indonesia</p>
 
 ###
 
