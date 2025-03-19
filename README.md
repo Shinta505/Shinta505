@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Front-end<br>📫 How to reach me: shintanursobahchairani@gmail.com<br>👩🏻‍🎓 Studied Informatics at the Universitas Pembangunan Nasional Veteran Yogyakarta, Indonesia</p>
+<p align="left">🌱 I’m currently learning Front-end<br>📫 How to reach me: shintanursobah79@gmail.com<br>👩🏻‍🎓 Studied Informatics at the Universitas Pembangunan Nasional Veteran Yogyakarta, Indonesia</p>
 
 ###
 
@@ -40,6 +40,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -55,7 +58,7 @@
   <a href="https://instagram.com/shntaa_nc" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://mailto:shintanursobahchairani@gmail.com" target="_blank">
+  <a href="https://mailto:shintanursobah79@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
