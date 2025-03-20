@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Front-end<br>📫 How to reach me: shintanursobah79@gmail.com<br>👩🏻‍🎓 Studied Informatics at the Universitas Pembangunan Nasional Veteran Yogyakarta, Indonesia</p>
+<p align="left">🌱 I’m currently learning Full Stack Web Development<br>📫 How to reach me: shintanursobah79@gmail.com<br>👩🏻‍🎓 Studied Informatics at the Universitas Pembangunan Nasional Veteran Yogyakarta, Indonesia</p>
 
 ###
 
