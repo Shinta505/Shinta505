@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is Shinta and I'm a Undergraduate Informatics Student, from Tegal, Indonesia</p>
+<p align="center">My name is Shinta and I'm a Undergraduate Informatics Student, from Tegal, Central Java,  Indonesia</p>
 
 ###
 
